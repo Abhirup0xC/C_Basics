@@ -1,3 +1,8 @@
+// Simple Calculator Program
+// This program takes two numbers and performs
+// addition, subtraction, multiplication, or division
+// based on user choice.
+
 #include<stdio.h>
 int main()
 {
