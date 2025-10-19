@@ -1,3 +1,5 @@
+// Program to Calculate Total, Average Marks and Grade of a Student
+
 #include <stdio.h>
 int main() {
     int a, b, c, d, e, sum;
