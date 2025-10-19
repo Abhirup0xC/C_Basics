@@ -14,9 +14,9 @@ int main() {
     	case 'E':
     	case 'O':
     	case 'I':
-    	case 'U': printf("The entered character is vowel!");
+    	case 'U': printf("The entered character - %c is vowel!", a );
 		break;
-    	default : printf("The entered character is a consonent!");
+    	default : printf("The entered character - %c is a consonent!", a );
     }
     return 0;   	
 }
